@@ -1,0 +1,11 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "This is for testing deploying a node app",
+  "main": "server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elhassen",
+  "license": "ISC"
+}
